@@ -1,6 +1,8 @@
+import './home.sass'
+
 const Home = () => {
 	return (
-		<div>Home Component</div>
+		<div className='home'>Home Component</div>
 	)
 }
 
